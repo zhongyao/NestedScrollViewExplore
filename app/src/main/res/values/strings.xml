@@ -3,4 +3,6 @@
     <string name="common_string_title">标题</string>
     <string name="common_string_content">content</string>
     <string name="common_string_end">底部</string>
+    <string name="common_string_to_top">置顶</string>
+    <string name="common_string_to_end">置底</string>
 </resources>

@@ -8,5 +8,6 @@
     <dimen name="common_dimen_5">5dp</dimen>
     <dimen name="common_dimen_6">6dp</dimen>
     <dimen name="common_dimen_18">18dp</dimen>
+    <dimen name="common_dimen_180">180dp</dimen>
 
 </resources>
