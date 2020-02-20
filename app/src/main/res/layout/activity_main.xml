@@ -18,8 +18,9 @@
 
             <TextView
                 android:id="@+id/tv_title"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center"
                 android:text="@string/common_string_title"
                 android:textSize="@dimen/common_dimen_18"
                 android:textStyle="bold" />
@@ -38,8 +39,17 @@
 
         <View
             android:layout_width="match_parent"
-            android:layout_height="@dimen/common_dimen_6"
+            android:layout_height="@dimen/common_dimen_05"
             android:background="@color/common_color_gray" />
+
+        <TextView
+            android:id="@+id/tv_en"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:text="@string/common_string_end"
+            android:textSize="@dimen/common_dimen_18"
+            android:textStyle="bold" />
 
     </LinearLayout>
 
