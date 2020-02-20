@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NestedScrollViewExplore</string>
+    <string name="common_string_title">标题</string>
 </resources>
